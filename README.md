@@ -1,6 +1,6 @@
 # Install-Autopsy-and-Analyze-the-Disk-File-and-Folder-Configuration
 ### Reg:212222110042
-### Name:Tharun Kumar M
+### Name:Selva Kumar A
 ## AIM:
 To install Autopsy on Kali Linux and analyze disk images, files, and folder configurations for digital forensic purposes.
 
